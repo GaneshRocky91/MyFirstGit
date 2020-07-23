@@ -22,6 +22,6 @@
 }
 
 body {
-    background: image("AM.jpg");
+    background-image: image("AM.jpg");
     margin: 0;
 }
