@@ -22,6 +22,9 @@
 }
 
 body {
-    background-image: image("AM.jpg");
     margin: 0;
+    background-image: image("AM.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
