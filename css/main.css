@@ -1,6 +1,5 @@
 .site-header {
     background-color: #A2B3C4;
-    background-image: url("1.jpg");
     color: rebeccapurple;
     height: 100vh;
     font-family: monospace;
@@ -23,5 +22,6 @@
 }
 
 body {
+    background: image("AM.jpg");
     margin: 0;
 }
